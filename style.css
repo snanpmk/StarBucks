@@ -1,0 +1,422 @@
+body
+{
+    margin: 0px;
+    font-family:"SoDOSans Semibold",Helvetica,sans-serif;
+}
+.navbar
+{
+    width: 100%;
+    height: 138px;
+}
+.navbarleft
+{
+    width: 50%;
+    font-size: 26px;
+    margin-left: 179px;
+    margin-top: 27px;
+    display: flex;
+    align-items: center;
+    float: left;
+    cursor: pointer;
+
+}
+.navbarleft > *
+{
+    padding-left: 73px;
+
+}
+
+.logo 
+{
+    width: 67px;
+}
+.navbarright
+{
+    float: left;
+}
+.searchbox
+{
+    color: #212529;
+    background-color: #fff;
+    border-color: #0e382c78;
+    outline: 0;
+    box-shadow: #1c1c1c14 0 2px 8px;
+    border: 1px solid #e6e4e4;
+     border-radius: 51.25rem;
+    width: 410px;
+    margin-top: 39px;
+    margin-left: 135px;
+    height: 52px;
+    font-size: 22px;
+    padding-left: 32px;
+
+}
+.accicon
+{
+    width: 58px;
+    padding-left: 205px;
+    padding-top: 5px;
+    margin: -23px;
+   
+}
+.signuppromo
+{
+    width: 93%;
+    height: 80px;
+    background-color: #1e3932;
+    font-size: 33px;
+    color: #fff;
+    padding-left: 158px;
+    display: flex;
+    align-items: center;
+    margin-bottom: -44px;
+    padding-bottom: 40px;
+   
+    
+}
+.button
+{
+    border-color: #fff;
+    max-width: max-content;
+    padding: 5px 20px 5px 20px;
+    background-color: transparent;
+    color: white;
+    margin-left: 1065px;
+    font-size: 26px;
+    border-radius: 25.12rem;
+}
+.Handcrafted
+{
+    width: 100%;
+    height: 115px;
+    background-color:#fff;
+   
+}
+.hctxt
+{
+
+    font-size: 33px;
+    margin-left: 165px;
+    font-family: "SoDOSans Semibold",Helvetica,sans-serif;
+    margin-top: 87px;
+    font-weight: 750;
+    color: #1e3932;
+}
+.imagebar
+{
+    display: flex;
+    align-items: center;
+}
+.imagebar > *
+{
+    padding-left: 187px;
+}
+.img
+{
+    width: 164px;
+    border: 1px;
+    border-radius: 82px;
+}
+.pictxt
+{
+    text-align: center;
+    padding: 27px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.baristabackground
+{
+   background-color: #edebe9; 
+   width: 100%;
+   height: 432px;
+   display: flex;
+   align-items: baseline;
+}
+.baristabackground > *
+{
+    padding-left: 50px;
+}
+.btxt
+{
+    font-size: 33px;
+    margin-left: 165px;
+    font-family: "SoDOSans Semibold",Helvetica,sans-serif;
+    margin-top: 87px;
+    font-weight: 750;
+    color: #1e3932;
+    
+}
+.card
+{
+    width: 565px;
+    height: 238px;
+    background-color: #fff;
+    border: 1px;
+    border-radius: 19px;
+    margin-left: 126px;
+    float: left;
+    
+    
+}
+.icon
+{
+    width: 140px;
+    height: 137px;
+    margin-left: 38px;
+    border: 1px;
+    border-radius: 8px;
+    margin-top: 22px;
+}
+.vegicon
+{
+    margin-bottom: 103px;
+    margin-left: 26px;
+    width: 28px;
+}
+.cardtxtname
+{
+    font-size: 19px;
+    margin-top: -91px;
+    margin-left: 202px;
+    font-weight: bolder;
+}
+.priceincard
+{
+    margin-top: 60px;
+    margin-left: 50px;
+    font-weight: bolder;
+    font-size: larger;
+}
+.additembutton
+{
+    float: left;    margin-left: 409px;
+    margin-top: 28px;
+    width: 122px;
+    height: 50px;
+    border: 1px;
+    border-radius: 30px;
+    background: #1e3932;
+    color: white;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.priceincarddiv
+{
+    width: 200px;
+    height: 20px;
+    float: left;
+}
+.thirdsection
+{
+    width: 100%;
+    height: 1200px;
+    
+}
+.rosebox
+{
+    width: 1891px;
+    height: 300px;
+    background-color: #ffd0e7;
+    margin-left: 200PX;
+    margin-top: 122px;
+    border: 0.1px solid;
+    border-radius: 18px;
+    border-top-color: brown;
+    border-bottom-color: brown;
+    border-left-color: transparent;
+    border-right-color: transparent;
+}
+
+.effil
+{
+    width: 144px;
+    height: 268px;
+    margin-top: 24px;
+    float: left;
+}
+.textinrosebox
+{
+    float: left;
+    margin-left: 30px;
+    margin-top: 67px;
+    letter-spacing: 1px;
+    font-weight: lighter;
+}
+.latesttxt
+{
+
+    margin-top: 123px;
+    padding-left: 150px;
+    height: 50px;
+    color: #1e3932;
+    font-weight: bold
+}
+.card2
+{
+    border-color: grey;
+    width: 605px;
+    height: 538px;
+    border: 1px solid;    margin-left: 110px;
+    margin-top: 50px;
+    border-radius: 20px;
+    float: left;
+}
+.card2img
+{
+    width: 605px;
+    height: 290px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.veglogo
+{
+    width: 25px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.veglogotxt
+{
+    width: 300px;
+    padding-left: 30px;
+}
+.description
+{
+    width: 605;
+}
+.minclass
+{
+    margin-left: 30px;
+    color: #000000de;
+}
+.fourthsection
+{
+    background-color: #edebe9;
+    width: 100%;
+    height: 900px;  
+    
+}
+.fourthsectionheading
+{
+    margin-top: 5px;
+    margin-left: 131px;
+    font-size: 47px;
+    color: #1e3932;
+    padding-top: 85px;
+    font-weight: bolder;
+    height: 50px;
+}
+.sacimg
+{
+    background:rgba(0, 0,0, 0.7);
+    border: 1px;
+    border-radius: 47px;
+    width: 80%;
+    margin-left: 128px;
+     background-blend-mode: darken;
+
+    
+    
+}
+.txtonpic1
+{
+    font-size: 43px;
+    color: white;
+    position:absolute;
+    margin: 257px;
+    font-weight: bolder;
+   
+
+}
+.txtonpic2
+{
+    font-size: 29px;
+    color: white;
+    position: absolute;
+    margin: 257px;
+    margin-top: 348px;
+
+}
+.lmbutton
+{
+    position: absolute;
+    margin-top: -92px;
+    margin-left: 257px;
+    width: 216px;
+    height: 61px;
+    border: 0.1px;
+    border-radius: 48px;
+    background-color: white;
+    color: black;
+    font-size: 21px;
+}
+.footer
+{
+    width: 100%;
+    height: 1066px;
+    background-color: #1e3932;
+    display: flex;
+    align-self: center;
+}
+.footer > *
+{
+    padding-left: 100px;
+}
+.logo2
+{
+    margin-top: 123px;
+    border: 1px;
+    border-radius: 47px;
+    width: 133px;
+    margin-left: 84px;
+    height: 123px;
+}
+.tablefont
+{
+    font-size: 30px;
+    color: #fff;
+    border-spacing: 147px;
+
+}
+.hrow
+{
+    font-weight: bold;
+    font-size: 35px;
+}
+.appstore
+{
+width: 30px;
+float: left;
+margin-left: -183px;
+    margin-top: 208px;
+}
+.playstore
+{
+    width: 30px;
+float: left;
+margin-left: -183px;
+    margin-top: 140px;
+}
+.line
+{
+    margin-left: 381px;
+    margin-top: -106px;
+    color: white;
+}
+.lastline
+{
+    display: flex;
+    align-items: center;
+    font-size: larger;
+    color: white;
+    margin-left: 708px;
+    margin-top: 30px;
+    padding-left: 100px;
+    word-spacing: 10px;
+}
+.lastline > *
+{
+    padding-left: 100px;
+}
+
+
